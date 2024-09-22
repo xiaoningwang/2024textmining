@@ -1,9 +1,6 @@
 # 2024新闻与舆情数据学
 
 
-## 任务内容分配：【腾讯文档】2024新闻与舆情数据学
-https://docs.qq.com/sheet/DRXBjRW9FdGhYVFBm?tab=BB08J2
-
 # ⚠️注意
 
 
